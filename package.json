@@ -1,0 +1,24 @@
+{
+  "name": "malon",
+  "version": "1.0.0",
+  "description": "malon-argento",
+  "homepage": "https://github.com/E-Nicolas-Navarro/malon-argento#readme",
+  "bugs": {
+    "url": "https://github.com/E-Nicolas-Navarro/malon-argento/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E-Nicolas-Navarro/malon-argento.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vite": "^7.1.5"
+  }
+}
